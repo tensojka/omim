@@ -1,11 +1,22 @@
-# MAPS.ME
+# MAPS.ME Original Project
 
-[MAPS.ME](https://maps.me) is an open source cross-platform offline maps application,
-built on top of crowd-sourced OpenStreetMap data. It was publicly released
-for [iOS](https://itunes.apple.com/app/id510623322) and
-[Android](https://play.google.com/store/apps/details?id=com.mapswithme.maps.pro).
+This project is aimed at giving users of the MAPS.ME app a way to keep using the app they love even after version 2.0  lands in all app stores. [Short writeup](https://telegra.ph/What-happened-to-the-old-MAPSME-12-20) on context and origin.
 
-![](docs/screenshots.jpg)
+Current upstream: [old organization repository](https://github.com/mapsme/omim). New development will be merged here from time to time.
+
+## Communication
+
+[Newsletter](https://mapsme.substack.com/)
+
+[Telegram channel](https://t.me/originalmapsme)
+
+[Telegram group](https://t.me/originalmapsmegroup)
+
+## Short term goals
+
+- ship working binary for Android and iOS
+- move off official backend to be ready for it to get shut down
+
 
 ## Submodules
 
